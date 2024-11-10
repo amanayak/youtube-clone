@@ -24,5 +24,7 @@ This project is a clone of the popular video-sharing platform YouTube, created b
 # Screen Shot  
 ![1](https://github.com/amanayak/youtube-clone/assets/155058144/f5fe7d33-2659-482f-8408-1127fa2e0fdb)
 
+#Website Perview : https://amanayak.github.io/youtube-clone/
+#Website Perview : https://youtube-clone-a-lemon.vercel.app/
 
 ![2](https://github.com/amanayak/youtube-clone/assets/155058144/77d6a065-1d07-4e40-a130-4a06c2519ba2)
